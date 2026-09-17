@@ -16,10 +16,10 @@ pip install -r requirements.txt
 # Launch interactive executive dashboard
 streamlit run app.py
 ```
-*(On Windows, you can simply double-click `run.bat`)*
+
 
 ### Option 2: Zero-Dependency CLI Mode (Pure Python)
-If you prefer running without Streamlit or web dependencies:
+Using Streamlit or web dependencies:
 ```bash
 python cli.py
 ```

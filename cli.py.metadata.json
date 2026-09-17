@@ -1,0 +1,4 @@
+{
+  "summary":  "Updated CLI runner to support UTF-8 encoding on Windows console and ASCII fallbacks.",
+  "updatedAt":  "2026-09-17T13:45:07.196235200Z"
+}
